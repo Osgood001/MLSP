@@ -2829,7 +2829,7 @@ After some tedious derivaion, our gioal is still find the eigen values and eigen
 
 Stochastic dynamics (analytical on blackbooard)
 
-- Markvian, discrete/continuous state
+- Markovian, discrete/continuous state
 
 Machine learning discrete-state stochasitc dynamics (coding)
 
@@ -2840,7 +2840,7 @@ Machine learning continuous-state stochasitic dynmaics;
 -  Flow model to Langevin dynamics
 
 
-#### Marvovian stochastic dynamics
+#### Markovian stochastic dynamics
 
 |State|Discrete|Continuous
 |---|---|---|
@@ -3618,6 +3618,8 @@ Boids algorithm: Birds as agents with the following rule:
 >
 > Iteration: 
 > Iterate is the key in building something great. Instead of start everything from scratch, we would better build things on top of existing attempts.
+
+---
 
 Some quotes from Sam Altman (Founder/CEO of OpenAI):
 
